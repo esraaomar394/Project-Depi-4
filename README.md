@@ -12,6 +12,9 @@ Jana ahmed mahsob
 Mostafa hazem mostafa
 # Project Idea
 
+2- https://automationexercise.com/ 
+This website is very good for manual, automation, and API testing. - It has a 'Test Cases' tab with automation scripts. - It has an 'API Test Cases' tab with ready requests. 
+
 # Roles
 
 # Project Drive
