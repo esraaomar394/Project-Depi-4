@@ -7,7 +7,7 @@ Yomna Ahmed Mostafa
 
 Iythar Ibrahim Mohamed 
 
-Jana Ahmed Mahsoub 
+Jana Ahmed Mahsoup
 
 Mustafa Hazem Mustafa Omar Eldeeb
 # Project Idea
