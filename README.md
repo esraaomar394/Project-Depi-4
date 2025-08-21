@@ -1,13 +1,13 @@
 # Project-Depi-4
 
 # Team Members
-Esraa omar mohamed 
+Esraa Omar Mohamed 
 
 Yomna Ahmed Mostafa 
 
-Iythar ibrahim mohamed 
+Iythar Ibrahim Mohamed 
 
-Jana Ahmed mahsoub 
+Jana Ahmed Mahsoub 
 
 Mustafa Hazem Mustafa Omar Eldeeb
 # Project Idea
