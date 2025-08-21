@@ -3,13 +3,13 @@
 # Team Members
 Esraa omar mohamed 
 
-Youmna ahmed mostafa 
+Yomna Ahmed Mostafa 
 
 Iythar ibrahim mohamed 
 
-Jana ahmed mahsob 
+Jana Ahmed mahsoub 
 
-Mostafa hazem mostafa
+Mustafa Hazem Mustafa Omar Eldeeb
 # Project Idea
 
 2- https://automationexercise.com/ 
